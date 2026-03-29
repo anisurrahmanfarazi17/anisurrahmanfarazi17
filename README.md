@@ -1,3 +1,5 @@
+[![Hits](https://hits.sh/github.com/anisurrahmanfarazi17/anisurrahmanfarazi17.svg?style=plastic&label=Profile%20View)](https://hits.sh/github.com/anisurrahmanfarazi17/anisurrahmanfarazi17/)
+
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/anisurrahmanfarazi17) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/anisurrahmanfarazi17) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/anisurrahmanfarazi17) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anisurrahmanfarazi17) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@anisurrahmanfarazi17) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/anisurrahmanfarazi17) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anisurrahmanfarazi@gmail.com) 
