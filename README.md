@@ -1,4 +1,6 @@
-[![Hits](https://hits.sh/github.com/anisurrahmanfarazi17/anisurrahmanfarazi17.svg?style=plastic&label=Profile%20View)](https://hits.sh/github.com/anisurrahmanfarazi17/anisurrahmanfarazi17/)
+<div align="center">
+ <a href="https://hits.sh/github.com/anisurrahmanfarazi17/anisurrahmanfarazi17/"><img alt="Hits" src="https://hits.sh/github.com/anisurrahmanfarazi17/anisurrahmanfarazi17.svg?style=plastic&label=Profile%20View"/></a>
+</div>
 
 
 ## 🌐 Socials:
