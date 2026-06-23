@@ -2,6 +2,15 @@
  <a href="https://hits.sh/github.com/anisurrahmanfarazi17/anisurrahmanfarazi17/"><img alt="Hits" src="https://hits.sh/github.com/anisurrahmanfarazi17/anisurrahmanfarazi17.svg?style=plastic&label=Profile%20View"/></a>
 </div>
 
+## Hi, I'm Anisur Rahman Farazi
+
+Computer Science Undergraduate at City University, Bangladesh.
+
+## About Me
+- Competitive Programming
+- Tech Enthusiast
+- CPCCU Social Media Manager
+- Open Source Learner
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/anisurrahmanfarazi17) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/anisurrahmanfarazi17) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/anisurrahmanfarazi17) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anisurrahmanfarazi17) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@anisurrahmanfarazi17) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/anisurrahmanfarazi17) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anisurrahmanfarazi@gmail.com) 
@@ -12,9 +21,19 @@
 <h3 align="left">🔥   My Stats :</h3>
 
 ###
+<div align="center">
+<a href="https://bit.ly/gh-readme-profile"><img src="https://gh-readme-profile.vercel.app/api?username=anisurrahmanfarazi17&theme=monochrome-dark-gradient&hide=stars%2Cforks&show=reviews%2Cissues_closed&photo_quality=50" alt="GitHub Readme Profile"/></a>
+</div>
+
+###
 
 <div align="center">
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=anisurrahmanfarazi17&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
 </div>
+
+###
+
+
+<img data-importer="snake" src="https://raw.githubusercontent.com/anisurrahmanfarazi17/anisurrahmanfarazi17/snake-output/snake.svg" alt="Snake animation" />
 
 ###
